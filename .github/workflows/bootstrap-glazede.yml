@@ -44,8 +44,8 @@ jobs:
           Kiln retains a working copy for compatibility during the repository transition.
           EOF
 
-          # The import workflow is temporary; the source's own CI workflow remains.
-          rm -f .github/workflows/bootstrap-glazede.yml
+          # GITHUB_TOKEN cannot create workflow files; publish the original CI separately.
+          rm -f .github/workflows/ci.yml
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
