@@ -60,8 +60,8 @@ list of what passes, what is unverified and why.
 MIT OR Apache-2.0. Original artwork only; Windows 2000 is a structural
 reference, not an asset source.
 
-## Hexsource project
+## Achilles project
 
-GlazeDE is maintained by [Hexsource](https://github.com/hexsourceorg).
+GlazeDE is maintained by [Achilles](https://github.com/hexsourceorg).
 It was originally developed inside [Kiln GNU/Linux](https://github.com/hexsourceorg/kiln-gnu-linux/tree/beta/glaze).
 Kiln retains a working copy for compatibility during the repository transition.
