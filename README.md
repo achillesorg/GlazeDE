@@ -1,6 +1,6 @@
-# Glaze
+# GlazeDE
 
-A native Fedora Wayland desktop environment for `x86_64` and `aarch64`.
+GlazeDE (Glaze) is a native Fedora Wayland desktop environment for `x86_64` and `aarch64`.
 Windows 2000 desktop structure, rebuilt as a modern restrained claymorphic UI.
 
 Rust core, GTK4 shell (`gtk4-layer-shell`), staged compositor (Sway → Smithay).
