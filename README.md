@@ -62,6 +62,6 @@ reference, not an asset source.
 
 ## Achilles project
 
-GlazeDE is maintained by [Achilles](https://github.com/hexsourceorg).
-It was originally developed inside [Kiln GNU/Linux](https://github.com/hexsourceorg/kiln-gnu-linux/tree/beta/glaze).
+GlazeDE is maintained by [Achilles](https://github.com/achillesorg).
+It was originally developed inside [Kiln GNU/Linux](https://github.com/achillesorg/kiln-gnu-linux/tree/beta/glaze).
 Kiln retains a working copy for compatibility during the repository transition.
