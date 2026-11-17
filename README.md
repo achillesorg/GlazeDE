@@ -1,5 +1,7 @@
 # GlazeDE
 
+**Desktop:** https://glaze.mandrusia.tech/desktop/ · **Mobile:** https://glaze.mandrusia.tech/mobile/
+
 GlazeDE (Glaze) is a native Fedora Wayland desktop environment for `x86_64` and `aarch64`.
 Windows 2000 desktop structure, rebuilt as a modern restrained claymorphic UI.
 
@@ -60,8 +62,8 @@ list of what passes, what is unverified and why.
 MIT OR Apache-2.0. Original artwork only; Windows 2000 is a structural
 reference, not an asset source.
 
-## Achilles project
+## Kiln GNU/Linux project
 
-GlazeDE is maintained by [Achilles](https://github.com/achillesorg).
-It was originally developed inside [Kiln GNU/Linux](https://github.com/achillesorg/kiln-gnu-linux/tree/beta/glaze).
+GlazeDE is maintained by [Kiln GNU/Linux](https://github.com/kilnorg).
+It was originally developed inside [Kiln GNU/Linux](https://github.com/kilnorg/kiln-gnu-linux/tree/beta/glaze).
 Kiln retains a working copy for compatibility during the repository transition.
